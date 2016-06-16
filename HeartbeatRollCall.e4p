@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-5.1.dtd">
+<!-- eric project file for project HeartbeatRollCall -->
+<!-- Saved: 2015-10-19, 16:48:15 -->
+<!-- Copyright (C) 2015 1, 1 -->
+<Project version="5.1">
+  <Language>en_US</Language>
+  <Hash>a479e3262f4581e47566f44b970df32a83105aa6</Hash>
+  <ProgLanguage mixed="0">Python3</ProgLanguage>
+  <ProjectType>Qt4</ProjectType>
+  <Description>1</Description>
+  <Version>0.1</Version>
+  <Author>1</Author>
+  <Email>1</Email>
+  <Eol index="-1"/>
+  <Sources>
+    <Source>HeartbeatRollCall.pyw</Source>
+    <Source>__init__.py</Source>
+    <Source>UI/__init__.py</Source>
+    <Source>UI/Ui_MainWindow.py</Source>
+    <Source>UI/MainWindow.py</Source>
+    <Source>UI/Ui_Wizard.py</Source>
+    <Source>UI/Wizard.py</Source>
+    <Source>UI/Ui_ConfigWindow.py</Source>
+    <Source>UI/ConfigWindow.py</Source>
+    <Source>UI/icon_rc.py</Source>
+  </Sources>
+  <Forms>
+    <Form>UI/MainWindow.ui</Form>
+    <Form>UI/Wizard.ui</Form>
+    <Form>UI/ConfigWindow.ui</Form>
+  </Forms>
+  <Translations/>
+  <Resources>
+    <Resource>UI/icon.qrc</Resource>
+  </Resources>
+  <Interfaces/>
+  <Others/>
+  <MainScript>HeartbeatRollCall.pyw</MainScript>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES"/>
+    <FiletypeAssociation pattern="*.py" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.py3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.qm" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.qrc" type="RESOURCES"/>
+    <FiletypeAssociation pattern="*.ts" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.ui" type="FORMS"/>
+  </FiletypeAssociations>
+</Project>
